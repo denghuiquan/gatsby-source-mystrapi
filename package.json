@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-source-mystrapi",
+  "version": "0.0.1",
+  "description": "a gatsby source plugin for fecthing data from strapi server",
+  "main": "gatsby-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gatsby",
+    "pluins",
+    "strapi"
+  ],
+  "author": "denghuiquan <denghuiquan@foxmail.com>",
+  "license": "MIT"
+}
